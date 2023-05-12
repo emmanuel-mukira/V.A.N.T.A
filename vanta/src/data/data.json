@@ -9,16 +9,15 @@
   "About": {
     "paragraph": "VANTA consulting is a precision marketing firm that helps growing businesses and start-ups build and scale their online presence. Their team specializes in targeted advertising, lead generation, and client acquisition to increase online visibility and ultimately generate more business.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "We can boost your businesses digital presence",
+      "We have proven expertise",
+      "We offer customized solutions",
+      "We have affordable pricing"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "We take on a results-oriented approach",
+      "We have a strong commitment to quality",
+      "We make use of cutting-edge technology"
     ]
   },
   "Gallery": [
@@ -70,7 +69,7 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
+      "icon": "fa-code",
       "name": "Website design and management ",
       "text": "VANTA consulting offers website design and management services to ensure that a business's website is visually appealing, user-friendly, and easy to navigate. They offer various pricing options ranging from $15 to $200 per month."
     },
@@ -155,9 +154,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "spencer",
+    "address": " Nairobi, Kenya ",
+    "phone": "+254 702950200",
+    "email": "spencerodisa@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
